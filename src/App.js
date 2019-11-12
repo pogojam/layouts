@@ -4,7 +4,7 @@ import { Layout } from "./bindings/layout";
 
 const pages = [
   {
-    bg: "#0000",
+    bg: "brown",
     direction: "center"
   },
   {
@@ -12,8 +12,12 @@ const pages = [
     direction: "right"
   },
   {
+    bg: "red",
+    direction: "right"
+  },
+  {
     bg: "orange",
-    direction: "bottom"
+    direction: "down"
   }
 ];
 
